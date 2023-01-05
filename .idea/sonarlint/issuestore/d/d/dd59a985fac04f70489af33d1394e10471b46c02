@@ -1,0 +1,22 @@
+
+q
+java:S1192"ODefine a constant instead of duplicating this literal "ìˆ˜í–‰ì‹œê°„: " 3 times.(æÌÓÍÿÿÿÿÿ8×­ÿÇÀ0
+h
+java:S1192$"FDefine a constant instead of duplicating this literal "ABCDE" 3 times.(­…Ò±ûÿÿÿÿ8ÔŸşÇÀ0
+f	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(×®ğ 
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(ë‚øúÿÿÿÿ
+k	java:S117"QRename this local variable to match the regular expression '^[a-z][a-zA-Z0-9]*$'.(¨‚ª­üÿÿÿÿ
+2
+java:S1643"Use a StringBuilder instead.(æğòü
+g	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Ù¶àšûÿÿÿÿ
+®
+java:S1598"’This file "strReverse.java" should be located in "SoloTest/Programmers" directory, not in "/Users/limdongkeun/Desktop/JAVA_Study/src/Programmers".(î…œÍøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î…œÍøÿÿÿÿ
+u
+java:S1149"_Replace the synchronized class "StringBuffer" by an unsynchronized one such as "StringBuilder".(Ô¶–û
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æÌÓÍÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æÌÓÍÿÿÿÿÿ
+S	java:S106"9Replace this use of System.out or System.err by a logger.(æÌÓÍÿÿÿÿÿ
+S	java:S106$"9Replace this use of System.out or System.err by a logger.(­…Ò±ûÿÿÿÿ
+Z	java:S106%"9Replace this use of System.out or System.err by a logger.(ÿÉŞøÿÿÿÿ8åŸşÇÀ0
+U	java:S106&"9Replace this use of System.out or System.err by a logger.(„–ÙÎ8ç­ÿÇÀ0

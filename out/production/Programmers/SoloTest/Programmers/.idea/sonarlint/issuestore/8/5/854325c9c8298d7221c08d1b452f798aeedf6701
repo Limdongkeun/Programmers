@@ -1,0 +1,9 @@
+
+2
+java:S1643"Use a StringBuilder instead.(¤Ûÿ˜
+­
+java:S1598"‘This file "UpperCase.java" should be located in "SoloTest/Programmers" directory, not in "/Users/limdongkeun/Desktop/JAVA_Study/src/Programmers".(î…œÍøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î…œÍøÿÿÿÿ
+S	java:S106	"9Replace this use of System.out or System.err by a logger.(ŒªÚžýÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ïš¹Ò
+N	java:S106"9Replace this use of System.out or System.err by a logger.(âÊŒÝ

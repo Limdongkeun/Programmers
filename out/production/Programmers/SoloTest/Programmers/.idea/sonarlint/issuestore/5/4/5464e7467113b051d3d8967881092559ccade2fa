@@ -1,0 +1,9 @@
+
+b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(¿¸Õà
+a
+java:S2184"FCast one of the operands of this multiplication operation to a "long".(¼ëùşÿÿÿÿ
+ª
+java:S1598"This file "xPlusN.java" should be located in "SoloTest/Programmers" directory, not in "/Users/limdongkeun/Desktop/JAVA_Study/src/Programmers".(î…œÍøÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î…œÍøÿÿÿÿ
+V	java:S125"<This block of commented-out lines of code should be removed.(ßçƒĞøÿÿÿÿ
+N	java:S106"9Replace this use of System.out or System.err by a logger.(„ƒÓ«
