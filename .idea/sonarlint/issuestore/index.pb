@@ -25,8 +25,6 @@ pizza.java,b/1/b181edbffeeb6e37ac7eaa39d1821c3d2319bdac
 centerStr.java,f/7/f7ce74d692857e43deb32011bbdec5569018d20a
 <
 Collatz.java,5/0/5047f4451615f07f6552a42b5459336df07d8818
-<
-Decimal.java,2/9/29eec9854fa46fdfc192ef10e12bf22357e6f286
 8
 hap.java,e/5/e56625eadc39b197cf41814668f7df436cce1c6a
 C
