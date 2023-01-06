@@ -1,12 +1,0 @@
-
-2
-java:S1643"Use a StringBuilder instead.(“®£Æ
-7
-java:S1643!"Use a StringBuilder instead.(å®×Øùÿÿÿÿ
-b	java:S101"MRename this class name to match the regular expression '^[A-Z][a-zA-Z0-9]*$'.(Û•ÙÓ
-±
-java:S1598"•This file "strDescending.java" should be located in "SoloTest/Programmers" directory, not in "/Users/limdongkeun/Desktop/JAVA_Study/src/Programmers".(î…œÍøÿÿÿÿ
-t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(î…œÍøÿÿÿÿ
-M	java:S106"9Replace this use of System.out or System.err by a logger.(ƒÚáB
-S	java:S106"9Replace this use of System.out or System.err by a logger.(‰ûÑòýÿÿÿÿ
-S	java:S106#"9Replace this use of System.out or System.err by a logger.(Å­ËÝúÿÿÿÿ
