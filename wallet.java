@@ -6,7 +6,10 @@ public class wallet {
     for (int[] card : sizes) {
       length = Math.max(length, Math.max(card[0], card[1]));
       height = Math.max(height, Math.min(card[0], card[1]));
+      System.out.println(length);
+      System.out.println(height);
     }
+   
     int answer = length * height;
     return answer;
   }
